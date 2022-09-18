@@ -2,5 +2,5 @@ Resolusi JGN TERBARU 2022
 - Pengembangan Jaringan 
 - Pengelolaan Jaringan
 - Interface Management
-- Maintenance Internet
 - Program Menyeluruh
+- Slow Pull Maintenance
